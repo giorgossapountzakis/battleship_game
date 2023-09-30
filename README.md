@@ -1,1 +1,1 @@
-# battleship_game
+This is an implementation of the 'battleship' game in Jave that was made as part of the course MultiMedia Technology in the 8th semester. The whole project was made inside eclipse and the grapichs were made using JavaFX. Here are some example images.
